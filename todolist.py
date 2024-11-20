@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 tasks = []  # Globalna lista zadań
 
 def save_tasks_to_file(filename="tasks.txt"):
@@ -135,7 +134,7 @@ while True:
         break
     else:
         print("Niepoprawny wybór, spróbuj ponownie.")
-=======
+
 tasks = []  # Globalna lista zadań
 
 def save_tasks_to_file(filename="tasks.txt"):
@@ -272,4 +271,4 @@ while True:
         break
     else:
         print("Niepoprawny wybór, spróbuj ponownie.")
->>>>>>> e1c100885ff5b11b659f9aa5a25e55a3cc8ccef9
+
